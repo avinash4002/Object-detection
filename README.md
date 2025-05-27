@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d416d9fb-214e-436d-968f-0205200f300b)# Object Detection with ResNet+YOLO on Pascal VOC 2007
+# Object Detection with ResNet+YOLO on Pascal VOC 2007
 
 ## Overview
 
