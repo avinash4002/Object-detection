@@ -161,7 +161,7 @@ python train.py
 
 ### Evaluation
 ```bash
-python evaluate.py 
+python evaluation-scores.py 
 ```
 
 ### Inference
