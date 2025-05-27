@@ -3,7 +3,8 @@
 ## Overview
 
 This project implements a custom object detection system combining ResNet-34 as a feature extractor with a YOLO-style detection head. The model is trained and evaluated on the Pascal VOC 2007 dataset.
-
+**Trained Model Weights**:https://www.kaggle.com/models/avinash1tiwari/resnetyoloobject-detection/
+**Dataset**:https://www.kaggle.com/datasets/zaraks/pascal-voc-2007
 ## Architecture
 
 ### Model Components
