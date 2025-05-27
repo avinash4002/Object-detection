@@ -1,4 +1,4 @@
-# Object Detection with ResNet+YOLO on Pascal VOC 2007
+![image](https://github.com/user-attachments/assets/d416d9fb-214e-436d-968f-0205200f300b)# Object Detection with ResNet+YOLO on Pascal VOC 2007
 
 ## Overview
 
@@ -93,10 +93,10 @@ Multiple loss components required careful weighting to ensure:
 ### Performance Metrics
 *[Results will be updated after training completion]*
 
-- mAP@0.5: [TBD]
-- mAP@0.75: [TBD]
-- Overall Precision: [TBD]
-- Overall Recall: [TBD]
+- mAP@0.5: [0.7629]
+- mAP@0.75: [0.3530]
+- Overall Precision: [0.624756]
+- Overall Recall: [0.32118]
 
 ### Generated Visualizations
 - Average Precision comparison across IoU thresholds
