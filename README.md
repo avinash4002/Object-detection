@@ -91,7 +91,7 @@ Multiple loss components required careful weighting to ensure:
 ## Results
 
 ### Performance Metrics
-*[Results will be updated after training completion]*
+
 
 - mAP@0.5: [0.7629]
 - mAP@0.75: [0.3530]
